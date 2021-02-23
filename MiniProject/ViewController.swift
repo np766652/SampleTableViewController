@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MiniProject
 //
-//  Created by Nikunjkumar Patel on 15/02/21.
+//  Created by Nikunjkumar Patel on 18/02/21.
 //
 
 import UIKit
@@ -13,7 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
 
 }
-
